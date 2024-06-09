@@ -4,6 +4,8 @@
 
 ### DATASET LINK: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
 ### Project Demonstration Link: https://drive.google.com/file/d/1k5CHOh1quRZ5HqAQ6iKGp9r4LbUFv4Ka/view?usp=drive_link
+### Project Documentation: https://drive.google.com/file/d/1gEdTJgFg6SbUWIjNZBoMliSa1gSMGOcw/view?usp=drive_link
+### Visualizations: https://drive.google.com/file/d/1DVNQgQuUsC0lEnVgYsoSAdx8FukjJ4cA/view?usp=drive_link
 <!---
 sarvanik2966/sarvanik2966 is a ✨ special ✨ repository.
 --->
